@@ -68,6 +68,22 @@ Developing **machine learning frameworks** for high-dimensional biomedical data,
 *ZJU Biostatistics Group Meeting, Spring 2025*  
 - Reimplemented **graph neural network** pipeline from [Nature Methods 2023](https://doi.org/10.1038/s41592-024-02410-7)  
 
+## 🏆 Honors & Awards  
+
+**Academic Excellence**  
+- 2nd Prize of Excellent Student Scholarship of Zhejiang University, 2023 & 2024  
+- 3rd Prize of Higher Mathematics Competition for College Students in Zhejiang Province, 2023  
+- 1st Prize of the 15th National College Students Mathematics Competition (A Class), 2023  
+
+**Interdisciplinary Achievements**  
+- 2nd Prize in Physics Innovation (Theory) Contest for College Students of Zhejiang Province, 2023  
+
+**Language Competitions**  
+- 3rd Prize in 2023 National English Competition for College Students  
+- 1st Prize of the 11th English Writing Competition for College Students, Zhejiang University, 2023  
+- 2nd Prize of the 19th English Speech Contest for College Students, Zhejiang University, 2023  
+- 2nd Prize in the 8th English Reading Contest for College Students of Zhejiang University, 2023  
+
 ---
 *Actively seeking PhD opportunities for Fall 2026!*
 

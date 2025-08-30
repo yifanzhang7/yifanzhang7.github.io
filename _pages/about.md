@@ -25,12 +25,12 @@ Developing **machine learning frameworks** for high-dimensional biomedical data,
 ## 🌟 Highlight Projects  
 
 ### **Yale Summer Research (2025)**  
-*Advisor: Hongyu Zhao, Yale School of Public Health*  
+*Advisor: Hongyu Zhao, Yale School of Public Health* 
+*(Manuscript in preparation)*  
 - Developed an *iterative approach* for spatial transcriptomics deconvolution and alignment
   - **Graph Attention Network** for deconvolution
   - **Optimal Transport** for alignment
-- Achieved superior performance over existing methods on benchmarking datasets
-- *Manuscript in preparation*  
+- Achieved superior performance over existing methods on benchmarking datasets 
 
 ### **Preprint: Multimodal Deep Learning for Laryngeal Cancer**  
 *(Under review at JAMA Otolaryngology–Head & Neck Surgery)*  

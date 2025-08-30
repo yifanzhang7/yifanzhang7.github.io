@@ -12,11 +12,11 @@ excerpt: "Developing machine learning methods for biomedical challenges: spatial
 
 **Status**: Manuscript in preparation 
 
-**Keywords**: Optimal Transport · Single-cell Genomics · PASTE2  
+**Keywords**: Optimal Transport · Graph Attention Network · Single-cell Genomics   
 
 ### Innovation
-- Designed **novel penalty term** for partial optimal transport to improve slice alignment continuity
-- Benchmarking in progress
+- Designed an **iterative approach** for spatial transcriptomics alignment and deconvolution
+- Use **cell-type proportion** as a biologically interpretable embedding for optimal transport
 
 ## 🏥 Multimodal Deep Learning Model for Laryngeal Cancer Diagnosis (ZJU Biostat Group)
 **Advisor**:[Kewei Liang](https://person.zju.edu.cn/matlkw/571310.htm), Zhejiang University School of Mathematical Sciences

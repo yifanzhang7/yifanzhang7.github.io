@@ -39,7 +39,7 @@ Developing **machine learning frameworks** for high-dimensional biomedical data,
   - **Laryngoscopic images**  
   - **Clinical features** (Age, Gender)  
   - **Patient Complaint** 
-Achieved superior diagnostic performance across 3 external validation sets
+*Achieved superior diagnostic performance across 3 external validation sets*
 ---
 
 ## 🛠️ Technical Skills  

@@ -10,15 +10,15 @@ redirect_from:
 # Hi, I'm Yifan Zhang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, an undergrad majoring in statistics
 
 **Statistics + Computational Biology**  
-*Zhejiang University '26 | Yale Summer Research Fellow | Biostat PhD Applicant*
+*Zhejiang University '26 | Yale Summer Research Fellow | Stat / Biostat PhD Applicant*
 
 ---
 
 ## 🔬 Research Focus  
 Developing **machine learning frameworks** for high-dimensional biomedical data, with expertise in:  
 - Spatial transcriptomics alignment (*Optimal Transport-based methods*)  
+- Bulk RNA-seq deconvolution (*Regression / Autoencoder-based methods*)
 - Multimodal deep learning (*Clinical diagnostics*)  
-- Bulk RNA-seq deconvolution (*Regression-based methods*)
 
 ---
 
@@ -26,7 +26,10 @@ Developing **machine learning frameworks** for high-dimensional biomedical data,
 
 ### **Yale Summer Research (2025)**  
 *Advisor: Hongyu Zhao, Yale School of Public Health*  
-- Improved output smoothness of **spatial transcriptomics slice alignment** using partial optimal transport with penalty term
+- Developed an *iterative approach* for spatial transcriptomics deconvolution and alignment
+  - **Graph Attention Network** for deconvolution
+  - **Optimal Transport** for alignment
+- Achieved superior performance over existing methods on benchmarking datasets
 - *Manuscript in preparation*  
 
 ### **Preprint: Multimodal Deep Learning for Laryngeal Cancer**  
@@ -42,10 +45,10 @@ Developing **machine learning frameworks** for high-dimensional biomedical data,
 ## 🛠️ Technical Skills  
 
 **Programming & Tools**  
-`Python` (PyTorch, Scanpy, Pandas) | `R` (Tidyverse, Bioconductor) | `C++` (STL, Eigen) | `Linux/Bash` | `Git`  
+`Python` (PyTorch, Scanpy, Pandas) | `R` (Tidyverse, Bioconductor) | `C++` | `Linux/Bash` | `Git`  
 
 **Language Proficiency**  
-- **TOEFL**: 118/120 |Reading 29 | Listening 30 | Speaking 30 | Writing 29| 
+- **TOEFL**: 118/120 |Reading 29 | Listening 30 | **Speaking 30** | Writing 29| 
 - **GRE**: 330/340 |Verbal 160 | **Quant 170** | AW 4.0|  
 
 ---
@@ -53,20 +56,27 @@ Developing **machine learning frameworks** for high-dimensional biomedical data,
 ## 📚 Academic Background  
 **Zhejiang University**  
 *B.S. in Statistics, 2022-2026*  
-- GPA: 91.6/100 (**Top 7%**)  
+- GPA: 91.9/100 (**Top 7%**)  
 - Relevant Coursework: Regression-based RNA-seq deconvolution, Artificial nueral network, MCMC
 
 ---
 
 ## 📢 Academic Presentations  
-**Graph-Based Causal Inference**  
-*ZJU Biostatistics Group Meeting, Fall 2024*   
-- Book report of Judea Pearl's **"Causality"**   
-- Discussed the method of causal relationship-inference based on causal graphs
+
+### **Paper Sharing: Mapping Cells Through Time and Space with moscot**  
+*Journal Club · Zhao Lab · Yale School of Public Health · Summer 2025*  
+- Presented the 2025 *Nature* paper [“Mapping Cells Through Time and Space with moscot”](https://doi.org/10.1038/s41586-024-08453-2)  
+- Shared personal interpretations and critical insights  
 
 ### **Reproducing CAST: GNNs for Spatial Transcriptomics**  
-*ZJU Biostatistics Group Meeting, Spring 2025*  
-- Reimplemented **graph neural network** pipeline from [Nature Methods 2023](https://doi.org/10.1038/s41592-024-02410-7)  
+*Biostatistics Group Meeting · Zhejiang University · Spring 2025*  
+- Reimplemented the **graph neural network (GNN)** pipeline from [*Nature Methods*, 2023](https://doi.org/10.1038/s41592-024-02410-7)  
+- Validated reproducibility and discussed potential applications  
+
+### **Graph-Based Causal Inference**  
+*Biostatistics Group Meeting · Zhejiang University · Fall 2024*  
+- Reported on Judea Pearl’s book [*Causality*](https://bayes.cs.ucla.edu/BOOK-2K/)  
+- Discussed methods for inferring causal relationships based on causal graphs  
 
 ## 🏆 Honors & Awards  
 

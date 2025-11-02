@@ -18,28 +18,41 @@ redirect_from:
 Developing **machine learning frameworks** for high-dimensional biomedical data, with expertise in:  
 - Spatial transcriptomics alignment (*Optimal Transport-based methods*)  
 - Bulk RNA-seq deconvolution (*Regression / Autoencoder-based methods*)
+- Microbiome cross-study batch effect correction (*Operates on simplex space*)
 - Multimodal deep learning (*Clinical diagnostics*)  
+- Cross-validation methods for graphs and graphon models (*Data Fission-based methods*)
 
 ---
 
 ## 🌟 Highlight Projects  
 
 ### **Yale Summer Research (2025)**  
-*Advisor: Hongyu Zhao, Yale School of Public Health* 
+*Advisor: Hongyu Zhao, School of Public Health, Yale University* 
 *(Manuscript in preparation)*  
 - Developed an *iterative approach* for spatial transcriptomics deconvolution and alignment
   - **Graph Attention Network** for deconvolution
   - **Optimal Transport** for alignment
 - Achieved superior performance over existing methods on benchmarking datasets 
 
+### **Cross-Study Debiasing for Microbiome Data**  
+*Advisor: Guanhua Chen, School of Medicine and Public Health, University of Wisconsin-Madison*  
+*(Implementation in progress)*  
+- Constructed a **cross-study debias framework** for microbiome analysis  
+  - Operates directly on the **simplex space**  
+  - Adjusts for **confounding covariates**  
+  - Aligns batch-specific **means and variances** simultaneously  
+- Potentially applicable to **Alzheimer's disease** microbiome datasets and achieves **superior performance over DEBIAS-M**  
+
 ### **Preprint: Multimodal Deep Learning for Laryngeal Cancer**  
-*(Under review at JAMA Otolaryngology–Head & Neck Surgery)*  
+*Advisor: Kewei Liang, School of Mathematical Sciences, Zhejiang University* 
+*(Under review at International Journal of Surgery)*  
 [[SSRN]](https://ssrn.com/abstract=5216153) | [[PDF]](/files/preprint.pdf)  
 - Developed a **multimodal framework** integrating:  
   - **Laryngoscopic images**  
-  - **Clinical features** (Age, Gender)  
-  - **Patient Complaint** 
+  - **Demographic Characteristics** (Age, Gender)  
+  - **Patient Chief Complaints** 
 - Achieved superior diagnostic performance across 3 external validation sets
+
 ---
 
 ## 🛠️ Technical Skills  
@@ -56,7 +69,7 @@ Developing **machine learning frameworks** for high-dimensional biomedical data,
 ## 📚 Academic Background  
 **Zhejiang University**  
 *B.S. in Statistics, 2022-2026*  
-- GPA: 91.9/100 (**Top 7%**)  
+- GPA: 91.9/100 (**Ranking: 3/39**)  
 - Relevant Coursework: Regression-based RNA-seq deconvolution, Artificial nueral network, MCMC
 
 ---

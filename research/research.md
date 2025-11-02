@@ -18,6 +18,22 @@ excerpt: "Developing machine learning methods for biomedical challenges: spatial
 - Designed an **iterative approach** for spatial transcriptomics alignment and deconvolution
 - Use **cell-type proportion** as a biologically interpretable embedding for optimal transport
 
+## 🧫 Cross-Study Debiasing for Microbiome Data  
+**Advisor**: [Guanhua Chen](https://biostat.wiscweb.wisc.edu/staff/chen-guanhua/), University of Wisconsin-Madison  
+
+**Period**: October 2025 - Present  
+
+**Status**: Implementation in progress  
+
+**Keywords**: Microbiome · Batch Correction · Compositional Data · Simplex Space 
+
+### Innovation
+- Constructed a **cross-study debias framework** for microbiome analysis  
+- Operates directly on the **simplex space**, enabling proper handling of compositionality  
+- **Adjusts for confounding covariates**   
+- **Aligns batch-specific means and variances** simultaneously   
+- Potentially applicable to **Alzheimer’s disease** microbiome datasets and achieves **superior performance over DEBIAS-M**
+
 ## 🏥 Multimodal Deep Learning Model for Laryngeal Cancer Diagnosis (ZJU Biostat Group)
 **Advisor**:[Kewei Liang](https://person.zju.edu.cn/matlkw/571310.htm), Zhejiang University School of Mathematical Sciences
 

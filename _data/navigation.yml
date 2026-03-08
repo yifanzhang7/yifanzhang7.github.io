@@ -15,13 +15,13 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /talks/  
+    url: /talks/   
 
-  - title: "Course Assignments"
-    url: /assignments/  
+  - title: "Teaching"
+    url: /teaching/  
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  #- title: "Presentations"
+  #  url: /talks/    
     
   #- title: "Portfolio"
   #  url: /portfolio/

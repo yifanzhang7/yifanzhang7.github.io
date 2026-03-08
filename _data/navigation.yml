@@ -12,13 +12,13 @@ main:
     url: /research/
 
   - title: "Publications"
-    url: /publications/
-
-  - title: "Presentations"
-    url: /talks/   
+    url: /publications/  
 
   - title: "Teaching"
     url: /teaching/  
+
+  - title: "CV"
+    url: /cv/
 
   #- title: "Presentations"
   #  url: /talks/    
@@ -28,9 +28,6 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-  #- title: "CV"
-  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/

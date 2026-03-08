@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I'm Yifan Zhang[CV](/files/CV_Yifan.pdf), an incoming PhD student in Biostatistics at Johns Hopkins University, where I will begin in Fall 2026.
+Hi, I'm Yifan Zhang, an incoming PhD student in Biostatistics at Johns Hopkins University, where I will begin in Fall 2026.
 
 Previously, I worked as a summer intern at Yale University under the supervision of Professor [Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/). I am completing my Bachelor's degree in Statistics at Zhejiang University. Outside academia, I enjoy playing basketball and skiing.
 

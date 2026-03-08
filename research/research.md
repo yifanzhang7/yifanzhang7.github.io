@@ -7,6 +7,7 @@ excerpt: "Developing machine learning methods for omics data"
 
 ## Spatial Transcriptomics Alignment 
 **Advisor**: [Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/), Yale University, School of Public Health
+
 **Period**: March 2025 - Present
 
 **Status**: Manuscript in preparation 
@@ -14,8 +15,8 @@ excerpt: "Developing machine learning methods for omics data"
 **Keywords**: Spatial Transcriptomics · Optimal Transport · Graph Attention Network   
 
 ### Innovation
-- Designed an **iterative approach** for spatial transcriptomics alignment and deconvolution
-- Use **cell-type proportion** as a biologically interpretable embedding for optimal transport
+- Designed an iterative approach for spatial transcriptomics alignment and deconvolution
+- Use cell-type proportion as a biologically interpretable embedding for optimal transport
 
 ## Cross-Study Debiasing for Microbiome Data  
 **Advisor**: [Guanhua Chen](https://biostat.wiscweb.wisc.edu/staff/chen-guanhua/), University of Wisconsin-Madison, School of Medicine and Public Health  
@@ -27,9 +28,9 @@ excerpt: "Developing machine learning methods for omics data"
 **Keywords**: Microbiome · Batch-effect Correction · Aitchison geometry 
 
 ### Innovation
-- Constructed a **cross-study debias framework** for microbiome analysis  
-- Operates directly on the **simplex space**
-- **Adjusts for confounding covariates**     
+- Constructed a cross-study debias framework for microbiome analysis  
+- Operates directly on the simplex space
+- Adjusts for confounding covariates     
 
 ## Multimodal Deep Learning Model for Laryngeal Cancer Diagnosis 
 **Advisor**:[Kewei Liang](https://person.zju.edu.cn/matlkw/571310.htm), Zhejiang University, School of Mathematical Sciences

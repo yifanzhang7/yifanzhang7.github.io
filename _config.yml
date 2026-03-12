@@ -22,7 +22,7 @@ repository               : "yifanzhang7/yifanzhang7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "guitar.jpg"
+  avatar           : "/images/guitar.jpg"
   name             : "Yifan Zhang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Johns Hopkins University"

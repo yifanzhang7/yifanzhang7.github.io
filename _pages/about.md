@@ -16,5 +16,5 @@ I am broadly interested in developing statistical and machine learning methods f
 - Cross-study batch-effect correction for microbiome data
 - Multimodal deep-learning-based cancer risk prediction
 
-Outside academia, I enjoy playing basketball and skiing.
+Outside academia, I enjoy music, basketball and skiing.
 
